@@ -1,3 +1,2 @@
 # EduCore
-An educational website using Gemini API
-A dynamic educational website using Gemini AI tools and API, provides personalized learning with explanations,quizzes, and tailored content across subjects.
+A dynamic educational website powered by Gemini AI, offering an interactive chatbot and personalized learning support.
